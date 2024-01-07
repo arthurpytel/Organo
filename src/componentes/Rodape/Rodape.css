@@ -1,0 +1,26 @@
+footer{
+    background-color: #6278F7;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    color: #fff;
+    padding: 80px;
+}
+
+.footer ul{
+    margin:0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+.footer ul a .facebook{
+    margin: 16px;
+    padding: 0;
+    
+}
+
+.footer ul li:last-child{
+    margin-right: 0px;
+}
